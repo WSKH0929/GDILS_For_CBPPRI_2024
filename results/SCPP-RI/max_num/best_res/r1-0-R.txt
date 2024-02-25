@@ -1,0 +1,12 @@
+Instance: r1
+Bin radius: 2.95
+Rho: 1/3
+Rotate enable: true
+Packed item area: 18.444100000000002
+Packed item count: 5
+X coordinate of lower left corner,Y coordinate of lower left corner,Item's width,Item's height
+-1.105,-0.47477149035039456,2.21,3.21
+-1.8537863434266173,-2.294771490350395,2.61,1.82
+0.7562136565733826,-1.5747714903503947,1.61,1.1
+-2.565,-0.4747714903503948,1.46,1.68
+1.105,-0.47477149035039456,1.08,2.2

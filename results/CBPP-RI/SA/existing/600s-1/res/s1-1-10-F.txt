@@ -1,0 +1,16 @@
+Instance: s1
+Bin radius: 4.21
+Rho: 1/2
+Rotate enable: false
+Bin num: 6
+Bin id,X coordinate of lower left corner,Y coordinate of lower left corner,Item's width,Item's height
+1,-2.21,-2.21,4.74,4.74
+2,-2.21,-2.21,4.32,4.32
+3,-3.21,-2.21,3.89,3.89
+3,0.79,-1.21,2.77,2.77
+3,-1.21,1.79,1.78,1.78
+4,-3.21,-2.21,3.71,3.71
+4,0.79,-1.21,2.51,2.51
+4,-1.21,1.79,1.48,1.48
+5,-3.21,-2.21,3.36,3.36
+6,-3.21,-2.21,3.31,3.31
